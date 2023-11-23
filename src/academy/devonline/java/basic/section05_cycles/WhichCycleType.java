@@ -1,3 +1,5 @@
+//Какой цикл выбрать
+
 package academy.devonline.java.basic.section05_cycles;
 
 import java.util.Iterator;

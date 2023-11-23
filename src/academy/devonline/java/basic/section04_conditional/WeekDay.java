@@ -1,12 +1,14 @@
-package academy.devonline.java.basic.section04_conditional;
-
-import java.util.Scanner;
-//Реализовать программу WeekDay,
+////Практика "Вывод дня недели"
+// Реализовать программу WeekDay,
 // которая запрашивает номер дня недели
 // (от 1 до 7 включительно), а затем
 // отображает название дня недели:
 // Если 1, то Monday (Понедельник),
 // если 2, то Tuesday (Вторник) и т.д.
+
+package academy.devonline.java.basic.section04_conditional;
+
+import java.util.Scanner;
 
 class WeekDay {
     public static void main(String[] args) {

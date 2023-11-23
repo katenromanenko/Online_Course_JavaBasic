@@ -1,3 +1,4 @@
+//Вывод результата на консоль
 package academy.devonline.java.basic.section02_structure;
 
 public class Out {

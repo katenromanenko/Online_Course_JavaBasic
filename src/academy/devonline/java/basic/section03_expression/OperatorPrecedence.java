@@ -1,3 +1,5 @@
+//Приоритет и ассоциативность операторов
+
 package academy.devonline.java.basic.section03_expression;
 
 public class OperatorPrecedence {

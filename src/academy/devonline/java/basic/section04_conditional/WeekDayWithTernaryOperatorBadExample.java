@@ -1,3 +1,5 @@
+//Рекомендации по использованию тернарного оператора
+
 package academy.devonline.java.basic.section04_conditional;
 
 public class WeekDayWithTernaryOperatorBadExample {

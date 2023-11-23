@@ -1,3 +1,4 @@
+//Операция условного перехода - Switch
 package academy.devonline.java.basic.section04_conditional;
 
 public class Switch {

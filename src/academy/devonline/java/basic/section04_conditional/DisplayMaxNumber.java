@@ -1,4 +1,5 @@
-//Реализовать программу DisplayMaxNumber,
+////Практика "Отобразить максимальное число"
+// Реализовать программу DisplayMaxNumber,
 // которая выводит максимально число из двух предложенных.
 
 package academy.devonline.java.basic.section04_conditional;

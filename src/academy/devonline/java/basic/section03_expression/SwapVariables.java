@@ -1,3 +1,7 @@
+////Практика "Перестановка значений переменных"
+// Реализовать программу SwapVariables,
+// которая меняет местами значение переменных a и b.
+
 package academy.devonline.java.basic.section03_expression;
 
 public class SwapVariables {

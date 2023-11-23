@@ -1,3 +1,5 @@
+//Как выйти из программы которая зависла
+
 package academy.devonline.java.basic.section05_cycles;
 
 public class LoopWithProblem {
@@ -6,5 +8,7 @@ public class LoopWithProblem {
             //i--;
         }
         System.out.println("End");
+
+        //единственный способ, убить программу
     }
 }

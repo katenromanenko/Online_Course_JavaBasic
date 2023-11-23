@@ -1,3 +1,4 @@
+//Пример "Простой калькулятор"
 package academy.devonline.java.basic.section04_conditional;
 
 import java.util.Scanner;

@@ -1,3 +1,5 @@
+//Цикл For - Вариации
+
 package academy.devonline.java.basic.section05_cycles;
 
 public class ForExamples {

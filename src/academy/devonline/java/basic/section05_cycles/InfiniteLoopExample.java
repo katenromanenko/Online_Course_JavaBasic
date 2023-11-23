@@ -1,3 +1,5 @@
+//Зачем нужны бесконечные циклы
+
 package academy.devonline.java.basic.section05_cycles;
 
 import java.util.Scanner;

@@ -1,3 +1,5 @@
+//Арифметические операции
+
 package academy.devonline.java.basic.section03_expression;
 
 public class ArithmeticExpressions {

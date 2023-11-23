@@ -1,3 +1,5 @@
+//Считывание с консоли
+//Создание пользовательского шаблона считывания с консоли
 package academy.devonline.java.basic.section02_structure;
 
 import java.util.Scanner;

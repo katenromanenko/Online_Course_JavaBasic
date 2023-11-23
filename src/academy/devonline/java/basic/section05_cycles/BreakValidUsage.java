@@ -1,3 +1,5 @@
+//Правильное использование break
+
 package academy.devonline.java.basic.section05_cycles;
 
 import javax.xml.validation.Validator;

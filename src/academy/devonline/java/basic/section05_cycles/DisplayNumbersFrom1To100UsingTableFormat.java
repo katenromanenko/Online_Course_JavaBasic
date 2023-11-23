@@ -1,3 +1,5 @@
+//Поэтапный подход в решении сложной задачи
+
 package academy.devonline.java.basic.section05_cycles;
 
 public class DisplayNumbersFrom1To100UsingTableFormat {

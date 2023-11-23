@@ -1,4 +1,5 @@
-//Реализовать программу DisplayEvenNumbersFrom0To50,
+//Практика "Вывод четных чисел в интервале от 0 до 50"
+// Реализовать программу DisplayEvenNumbersFrom0To50,
 // которая выводит на консоль
 // все четные целые числа от 0 до 50 (включительно).
 package academy.devonline.java.basic.section05_cycles;

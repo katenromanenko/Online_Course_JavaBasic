@@ -1,3 +1,5 @@
+//Тернарный оператор
+
 package academy.devonline.java.basic.section04_conditional;
 
 class TernaryOperator {
@@ -10,6 +12,8 @@ class TernaryOperator {
             System.out.println("a != 5");
         }
 
+        //Тернарный оператор
+        //(условие ? если условие истина : тогда условие ложь)
         System.out.println(a == 5 ? "a == 5" : "a != 5");
     }
 }

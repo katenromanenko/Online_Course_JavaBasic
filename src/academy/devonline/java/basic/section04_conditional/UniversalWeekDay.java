@@ -1,12 +1,14 @@
-package academy.devonline.java.basic.section04_conditional;
-
-import java.util.Scanner;
-//Реализовать программу UniversalWeekDay,
+//Практика "Универсальный вывод дня недели"
+// Реализовать программу UniversalWeekDay,
 // которая запрашивает номер дня недели (от 1 до 7 включительно),
 // а также логический параметр isMondayFirst и затем выводит названия
 // дня недели с учетом культурных или религиозных особенностей.
 // Если isMondayFirst=true, то тогда первым днем недели считается понедельник,
 // если isMondayFirst=false, то тогда первым днем недели считается воскресенье.
+
+package academy.devonline.java.basic.section04_conditional;
+
+import java.util.Scanner;
 
 class UniversalWeekDay {
     public static void main(String[] args) {

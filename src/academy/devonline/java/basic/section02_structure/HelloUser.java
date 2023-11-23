@@ -1,3 +1,10 @@
+////Практика "Программа приветствия"
+// Создать программу HelloUser,
+// которая запрашивает имя пользователя (name) с консоли,
+// а затем выводит на консоль фразу:
+// Hello, ${name}, где ${name} - это то имя,
+// которое ввел пользователь.
+
 package academy.devonline.java.basic.section02_structure;
 
 import java.util.Scanner;
